@@ -1,0 +1,1 @@
+* Các bạn sử dụng phần mềm GitHub Desktop để làm theo các bước sau: Clone project về -> Làm chức năng -> Xong rồi push lên
